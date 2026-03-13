@@ -263,7 +263,9 @@ header{
     .dropdown-box{
         left:0;
         right:0;
-        width:100%;  
+        width:100%;
+        background-color:black;
+        opacity:0.8;
     }
     .footer h2{
         font-size:14px;
@@ -276,10 +278,6 @@ header{
     }
     header{
         margin-bottom:0px;
-    }
-    .dropdown-box{
-        background-color:black;
-        opacity:0.8;
     }
 }
 
@@ -303,4 +301,5 @@ header{
         width:30px;
     }
 }
+
 
