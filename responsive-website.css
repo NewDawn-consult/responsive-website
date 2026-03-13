@@ -277,6 +277,10 @@ header{
     header{
         margin-bottom:0px;
     }
+    .dropdown-box{
+        background-color:black;
+        opacity:0.8;
+    }
 }
 
 @media only screen and (max-width:300px){
@@ -299,3 +303,4 @@ header{
         width:30px;
     }
 }
+
